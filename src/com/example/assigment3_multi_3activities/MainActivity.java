@@ -14,8 +14,8 @@ import android.widget.Button;
 import android.widget.CheckBox;
 
 public class MainActivity extends Activity {
-	CheckBoxPreference checked;
-	CheckBoxPreference uncheck;
+	
+	
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
