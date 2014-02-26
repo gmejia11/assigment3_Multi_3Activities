@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <CheckBoxPreference
+        android:key="checkbox1"
+        android:title="display the MainActivity "
+        android:summary="button in the alternative style "
+        android:defaultValue="false"
+        />
+   <CheckBoxPreference
+        android:key="checkbox2"
+        android:title="display the Activity2"
+        android:summary="in the alternative style "
+        android:defaultValue="false "
+        />
+
+</PreferenceScreen>
